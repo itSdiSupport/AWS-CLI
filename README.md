@@ -62,5 +62,6 @@ All launcher configurations and authentication mappings are managed within Delin
 6.	Associate the configured secrets and launchers within Delinea Secret Server.
 7.	Perform a validation test to confirm:
    - Successful launcher execution
-   - AWS authentication functionalityProper access and audit logging behavior
+   - AWS authentication functionality
+   - Proper access and audit logging behavior
 
