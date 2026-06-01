@@ -52,7 +52,7 @@ All launcher configurations and authentication mappings are managed within Delin
 - [Windows](https://github.com/itSdiSupport/AWS-CLI/raw/refs/heads/main/aws_cli_login_secretserver.exe)
 - MacOS()
 2.	Store the launcher executable and script files on the target endpoint in accordance with organizational standards.
-3.	Configure the required [launchers](), [secret templates](), and authentication mappings within Delinea Secret Server.
+3.	Configure the required [secret templates](https://github.com/itSdiSupport/AWS-CLI/blob/main/Secret%20Template%20%26%20Launchers.md#part-a---create-a-secret-template-iam-access-key--iam-role), [launchers](https://github.com/itSdiSupport/AWS-CLI/blob/main/Secret%20Template%20%26%20Launchers.md#part-b---create-a-secret-launcher), and [launcher mappings](https://github.com/itSdiSupport/AWS-CLI/blob/main/Secret%20Template%20&%20Launchers.md#part-c---mapping-of-launchers) within Delinea Secret Server.
 4.	Create the required secrets of the following:
  - IAM Access Keys
  - IAM Roles
